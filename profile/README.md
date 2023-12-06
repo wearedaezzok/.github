@@ -1,2 +1,4 @@
-## organization 초대 조건
+# 우리 대쪽이다 ㅋㅋ
+
+#### organization 초대 조건
 - 동아리 대표 했어야됨 ㅋㅋ
