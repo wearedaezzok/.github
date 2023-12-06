@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=우리 대쪽이다 ㅋㅋ&fontSize=56" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:521cf2,100:42c330&height=200&section=header&text=대쪽쓰&fontSize=90" /></div>
 <div align="center">
 :raising_hand:커밋 방법임 :raising_hand:
   </div>
